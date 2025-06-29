@@ -19,7 +19,7 @@ namespace StudentManager.BackEnd.Controllers
                 _logger = logger;
             }
             #endregion
-
+        //s
 
             #region [- GetAll() -]
             [HttpGet("all")]
